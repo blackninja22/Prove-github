@@ -1,0 +1,4 @@
+!git init
+!echo "ciao"> README.md
+!git add READ.md
+!git commit -m "commento"
